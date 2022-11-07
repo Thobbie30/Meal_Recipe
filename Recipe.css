@@ -1,0 +1,51 @@
+.Noodles-imgs{
+    width: 450px;
+    height: 380px;
+    display: flex;
+    flex-direction: row;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+}
+
+.Fried{
+    background-color: green;
+    margin: 8px;
+    border-radius: 4px;
+}
+
+.Chinese{
+    background-color: brown;
+    margin: 8px;
+    border-radius: 4px;
+}
+
+.Spicy{
+    background-color: red;
+    margin: 8px;
+    border-radius: 4px;
+}
+
+.Boiled{
+    background-color: peru;
+    margin: 8px;
+    border-radius: 4px;
+}
+
+h4{
+    color: white;
+    text-align: center;
+}
+
+.Recipe{
+    background-color: yellowgreen;
+    width: auto;
+}
+
+h1{
+    text-align: center;
+    color: darkblue;
+}
